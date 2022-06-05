@@ -29,9 +29,12 @@ main>.container {
 .top-margin{
     margin-top: 64px;  
 }
-.grid7-minHeight{
-min-height: 75vh;
+.grid3-minHeight{
+    min-height: 70vh;
 }
+.grid7-minHeight{
+    min-height: 75vh;
+    }
 .grid8-minHeight{
     min-height: 73vh;
     }
